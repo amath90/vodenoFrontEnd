@@ -1,0 +1,10 @@
+Pages\main\MainPage.class
+Utils\TestData\TestDataGenerator.class
+Steps\BaseStep.class
+Steps\CucumberTestRunner.class
+Utils\TestData\GeneratedTestDataProvider.class
+Pages\main\BuildYourOwnComputer.class
+Steps\MainPageActionsSteps.class
+Utils\WebDriver\WebDriverUtils.class
+Pages\BasePage.class
+Utils\PropertyUtils\PropertyReader.class
